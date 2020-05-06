@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding ="utf-8"?>
+<litepal>
+    <dbname value="dd_weather" />
+    <version value="1" />
+    <list>
+        <mapping class="me.madongdong.ddweather.db.Province" />
+        <mapping class="me.madongdong.ddweather.db.City" />
+        <mapping class="me.madongdong.ddweather.db.County" />
+    </list>
+</litepal>
